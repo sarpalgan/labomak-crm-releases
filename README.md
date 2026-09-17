@@ -6,7 +6,7 @@ Windows ve Android kurulum dosyaları.
 
 ## İlk kurulum
 
-- Windows: Sürümün Assets bölümündeki `Labomak.CRM-Setup-....exe` dosyasını indirip çalıştırın. Otomatik güncelleme için Setup sürümünü kullanın.
+- Windows: Sürümün Assets bölümündeki `Labomak-CRM-Setup-....exe` dosyasını indirip çalıştırın. Otomatik güncelleme için Setup sürümünü kullanın.
 - Android: `Labomak-CRM-....apk` dosyasını indirip açın. Android istediğinde ilgili kaynaktan kuruluma izin verin ve güncellemeyi onaylayın.
 - Mevcut uygulamanızı kaldırmadan yeni sürümü üzerine kurun. Bu sürümden önceki uygulamalara güncelleme özelliğini getirmek için bu işlem bir kez yapılmalıdır.
 
